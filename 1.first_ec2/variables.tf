@@ -5,3 +5,7 @@ variable "AWS_KEY" {
 variable "AWS_SECRET"{
     type = string
 }
+
+variable "test"{
+    type = number
+}
